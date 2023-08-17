@@ -1,4 +1,4 @@
-<img src="https://www.datocms-assets.com/48401/1644864897-next-framework.jpeg?fit=max&fm=webp&w=900" height="300" />
+<img src="https://www.datocms-assets.com/48401/1644864897-next-framework.jpeg?fit=max&fm=webp&w=900" height="1200" />
 
 <h1 align="center">Hi 👋, I'm Can Cömertpay</h1>
 <h3 align="center">React & Redux & Angular</h3>
