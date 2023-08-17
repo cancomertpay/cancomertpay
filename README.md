@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsnipcart.com%2Fblog%2Fnext-js-vs-react&psig=AOvVaw1dMvkFGDdAZ-ovEMRywxIK&ust=1692348856037000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDSxPWo44ADFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.datocms-assets.com/48401/1644864897-next-framework.jpeg?fit=max&fm=webp&w=900)
 
 <h1 align="center">Hi 👋, I'm Can Cömertpay</h1>
 <h3 align="center">React & Redux & Angular</h3>
