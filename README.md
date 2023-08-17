@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React & Redux & Vue**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [cancomertpay.online](cancomertpay.online)
-
-- 💬 Ask me about **Vanilla JS & TypeScript**
 
 - 📫 How to reach me **cancomertpay@gmail.com**
 
