@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Can Cömertpay</h1>
 <h3 align="center">React & Redux & Angular</h3>
 
-- 🌱 I’m currently learning **React & Redux & Vue**
+- 🌱 I’m currently learning **React & Redux & Next JS**
 
 - 👨‍💻 All of my projects are available at [cancomertpay.online](cancomertpay.online)
 
