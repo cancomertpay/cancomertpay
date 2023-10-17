@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [cancomertpay.online](cancomertpay.online)
+- 👨‍💻 All of my projects are available at [cancomertpay.online](https://cancomertpay.online)
 
 - 📫 How to reach me **cancomertpay@gmail.com**
 
