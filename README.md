@@ -2,15 +2,6 @@
 
 Frontend Developer · Istanbul, Turkey
 
-I build frontend infrastructure — design systems, UI kits and internal package
-ecosystems that other developers build on top of.
-
-Currently working at the fintech company of a brokerage group, where I build the
-shared frontend layer behind 15+ internal applications: a pure TypeScript/CSS
-design system with a two-layer token architecture, an in-house Vue 3 UI Kit on
-top of it, and a pnpm monorepo on a private registry distributing 50+ internal
-packages.
-
 ### Working with
 
 Vue 3 (Composition API) · Nuxt · TypeScript · Pinia · Vue Router ·
