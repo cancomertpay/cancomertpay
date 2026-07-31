@@ -1,77 +1,53 @@
-<h2 align="left">Hi 👋! My name is Can and I'm a Front-end Developer from Turkey</h2>
+## Can Cömertpay
 
-###
+Frontend Developer · Istanbul, Turkey
 
-<div align="center">
-  <img src="https://kitrum.com/wp-content/uploads/2023/06/Next.JS.png" alt="Next.js photo"  />
-</div>
+I build frontend infrastructure — design systems, UI kits and internal package
+ecosystems that other developers build on top of.
 
-###
+Currently working on the frontend foundation of a fintech product: a pure
+TypeScript/CSS design system with a two-layer token architecture, an in-house
+Vue 3 UI Kit on top of it, and a pnpm monorepo on a private registry
+distributing 50+ internal packages.
 
-###
+### Working with
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cancomertpay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cancomertpay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Vue 3 (Composition API) · Nuxt · TypeScript · Pinia · Vue Router ·
+Tailwind CSS · AG Grid Enterprise · GraphQL · REST · SignalR ·
+pnpm monorepo · Vitest · Storybook
 
-###
+### Also comfortable with
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-</div>
+React · Next.js · Redux · SCSS · Framer Motion · Cloudflare Workers
 
-###
+### Open source
 
-<div align="left">
-  <a href="mailto:cancomertpay@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/cancomertpay/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+**[fast-confetti](https://github.com/cancomertpay/fast-confetti)** ·
+[npm](https://www.npmjs.com/package/fast-confetti) — customizable confetti
+effects for the web, built on canvas-confetti. TypeScript.
 
-###
+**[Memory Game](https://github.com/cancomertpay/memory-game)** ·
+[live](https://memory-game-by-cc.vercel.app) — Vue 3 · Pinia · TypeScript ·
+Tailwind. Uses fast-confetti.
 
-<br clear="both">
+**[DevLinks](https://github.com/cancomertpay/devlinks-app)** ·
+[live](https://devlinksapp.vercel.app) — link sharing app with real-time
+database. Next.js · Firebase · Zod · dnd-kit.
 
-<img src="https://raw.githubusercontent.com/cancomertpay/cancomertpay/output/snake.svg" alt="Snake animation" />
+**[Audiophile](https://github.com/cancomertpay/audiophile)** ·
+[live](https://audiophilesystems.vercel.app) — e-commerce UI.
+Next.js · Framer Motion · Tailwind.
 
-###
+**[Metaversus](https://github.com/cancomertpay/metaversus)** ·
+[live](https://cancomertpay-metaversus.vercel.app) —
+Next.js · Framer Motion · Tailwind.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/cancomertpay/count.svg?"  />
-</div>
+**[Frontend Quiz App](https://github.com/cancomertpay/frontend-quiz-app)** ·
+[live](https://frontendquizapp.vercel.app) — Vue 3 · Pinia · Tailwind.
 
-###
+**[Easy Dictionary](https://github.com/cancomertpay/dictionary-app)** ·
+[live](https://easydictionary.vercel.app) — Next.js · Framer Motion · Tailwind.
+
+---
+
+[LinkedIn](https://linkedin.com/in/cancomertpay)
